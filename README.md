@@ -15,17 +15,18 @@
 ---
 ## Как запустить
 
-- Клонируйте репозиторий:
+Клонируйте репозиторий:
 ```
 git clone git@github.com:v-mcsimoff/sae_clip.git
 cd sae_clip
+```
 
-- Установите зависимости:
+Установите зависимости:
 ```
 pip install -r requirements.txt
 ```
 
-- Запустите ноутбук:
+Запустите ноутбук:
 ```
 jupyter notebook notebooks/training_and_viz.ipynb
 ```
