@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 Запустите ноутбук:
 ```
-jupyter notebook notebooks/training_and_viz.ipynb
+jupyter notebook notebooks/sae_clip_project.ipynb
 ```
 
 ## Результаты
